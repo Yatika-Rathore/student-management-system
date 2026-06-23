@@ -27,7 +27,7 @@ A GUI-based Student Management System developed using Python and Tkinter. This a
 
 ## Screenshot
 
-![Student Management System](screenshot.png)
+<img src="screenshot.png" width="700">
 
 ## How to Run
 
