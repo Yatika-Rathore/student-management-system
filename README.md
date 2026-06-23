@@ -25,6 +25,10 @@ A GUI-based Student Management System developed using Python and Tkinter. This a
 * `student_management_system.py` - Main application file
 * `students.txt` - Stores student records
 
+## Screenshot
+
+![Student Management System](screenshot.png)
+
 ## How to Run
 
 1. Install Python.
